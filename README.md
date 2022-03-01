@@ -1,4 +1,4 @@
-# curso-frond
+# curso-front
 # GIT
 ## Conceitos de versionamento
 - Historico
